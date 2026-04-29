@@ -47,9 +47,28 @@ A \otimes B = \begin{pmatrix}
 a_{11}B & \dots & a_{1Q}B \\
 \vdots & \ddots & \vdots \\ \\
 a_{P1}B & \ldots & a_{PQ}B
-\end{pmatrix}
+\end{pmatrix} \in (R, C)^{PN\times QM}
 $$
+### Hermitian matrix
+$A \in C^{N\times M}$ (complex domain)
+$A^H = [a^*_{ji}]$
+Real domain -> $A^H = A^T$
+### Reshaping
+### Diagonal
+### Toeplitz matrix
+### Positive semidefinite matrix
+### Inverse matrix
+#### Matrix inversion lemma
+#### Properties
+### Pseudoinverse matrix
+#### Properties
+### Rank and determinant
+#### Low-rank approximation
+
 ## Algebraic structures
 - groups
 - rings
 - fields
+# Geometric interpretation of Linear Transformations
+# Metrics and Norms
+# Unconstrained Convex Optimization
