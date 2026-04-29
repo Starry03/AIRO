@@ -1,5 +1,6 @@
 # Mathematical model
 Neural networks can be represented as **function approximators**
+
 $$
 	f_\theta(x) = W_L\sigma\left(W_{L-1}\ldots\sigma(W_1x+b_1) + b_{L-1}\right)
 $$
